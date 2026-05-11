@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my-report"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "../playwright-report"
+		},
+		{
+			"path": "../test-results"
+		},
+		{
+			"path": "../tests"
+		}
+	]
+}
